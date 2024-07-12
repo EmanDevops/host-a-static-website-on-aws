@@ -1,3 +1,6 @@
+![Alt text](Host_a_Static_Website_on_AWS.png)
+
+
 # Host a Static Website on AWS
 
 This project demonstrates how to host a static HTML web application on AWS using various AWS resources. The project setup includes configuring a Virtual Private Cloud (VPC) with public and private subnets, deploying an Internet Gateway, establishing security groups, and more. Below is a detailed guide on how the project was implemented and how you can replicate it.
